@@ -1,0 +1,55 @@
+.builds{
+    align-items: center;
+}
+
+body {
+    min-height: 75rem;
+    padding-top: 3.4rem;
+    background-color: #333;
+  }
+  
+/* .container{
+    min-height: 75rem;
+    padding-top: 4.5rem;
+} */
+
+.tg  {border-collapse:collapse;border-color:black;border-spacing:0;}
+.tg td{background-color:#fff;border-color:black;border-style:solid;border-width:1.5px;color:black;
+  font-family:'Poppins', sans-serif; font-weight: 600; font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:black;border-style:solid;border-width:1.5px;color:black;
+  font-family:'Poppins', sans-serif; font-size:14px; font-weight: 600;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle;background-color: #FF0063;}
+.tg .tg-buh4{background-color:#f9f9f9;text-align:left;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top;background-color: #7DCE13;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-abip{background-color:#37E2D5;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-btxf{background-color:#56BBF1;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+
+/* .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ted4{border-color:#333333;text-align:center;vertical-align:middle}
+.tg .tg-ao2g{border-color:#333333;text-align:center;vertical-align:top} */
+
+.table-class{
+    align-items: center;
+}
+
+.card-body{
+    margin: auto;
+}
+
+.card{
+    margin: auto;
+}
+
+.tests{
+    background-color: #2B7A0B;
+}
+
+section{
+    background-color: #66BFBF;
+}
